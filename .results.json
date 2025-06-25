@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-25T09:28:09.061Z",
-    "end": "2025-06-25T09:28:10.006Z",
-    "duration": 945
+    "start": "2025-06-25T09:38:17.166Z",
+    "end": "2025-06-25T09:38:18.097Z",
+    "duration": 931
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "charges 20 dollars for a distance between 400 and 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 20 dollars for a distance between 400 and 2000 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,14 +62,14 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -87,7 +87,7 @@
     {
       "title": "charges 20 dollars for a distance between 400 and 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 20 dollars for a distance between 400 and 2000 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,14 +129,14 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
